@@ -1,0 +1,10 @@
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\bin\Debug\Pysslaformer.exe.config
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\bin\Debug\Pysslaformer.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\bin\Debug\Pysslaformer.pdb
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.csprojResolveAssemblyReference.cache
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.MainForm.resources
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.Properties.Resources.resources
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.csproj.GenerateResource.Cache
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.pdb
+c:\users\chicherin\documents\visual studio 2015\Projects\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.SizeDialog.resources
