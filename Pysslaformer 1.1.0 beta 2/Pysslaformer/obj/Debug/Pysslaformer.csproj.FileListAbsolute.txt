@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\bin\Debug\Pysslaformer.exe.config
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\bin\Debug\Pysslaformer.exe
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\bin\Debug\Pysslaformer.pdb
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.MainForm.resources
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.Properties.Resources.resources
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.exe
+C:\Users\User\source\repos\Pysslaformer\Pysslaformer\obj\Debug\Pysslaformer.pdb
