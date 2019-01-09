@@ -21,6 +21,7 @@ namespace Pysslaformer
         List<GraphicsPath> Matrix = new List<GraphicsPath>();
         Image Current;
         bool Square = false;
+        bool SepSystem = false;
         public MainForm()
         {
             InitializeComponent();
@@ -71,6 +72,8 @@ namespace Pysslaformer
             int CurrentCol = 0;
             int CurrentRow = 0;
             Graphics g = Graphics.FromImage(Current);
+            g.Clear(Color.White);
+            Matrix.RemoveRange(0, Matrix.Count);
             for (int i = 0; i < Circles; i++)
             {
                 if (i % CirclesX == 0 && i != 0) { CurrentCol++; CurrentRow = 0; }
