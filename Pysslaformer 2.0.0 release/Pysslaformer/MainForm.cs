@@ -165,7 +165,7 @@ namespace Pysslaformer
                 int col = (x - 5) / 10;
                 int row = (y - 5) / 10;
                 bool ControlValue = ((Bitmap)Current).GetPixel(x, y).ToArgb() == Color.Red.ToArgb();
-                if (ControlValue) code += $"lc.setLed(0,{col},{row},true);\n";
+                if (ControlValue) code += $"lc.setLed(0,{row},{col},true);\n";
             }
             Clipboard.SetText(code);
         }
