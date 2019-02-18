@@ -12,20 +12,30 @@ void setup() {
 
 void loop() {
     one();
-    signal();
+    //signal();
+    analogWrite(8, 255);
     delay(2000 / times);
+    digitalWrite(8, LOW);
     two();
-    signal();
+    //signal();
+    analogWrite(9, 255);
     delay(2000 / times);
+    digitalWrite(9, LOW);
     three();
-    signal();
+    //signal();
+        analogWrite(10, 255);
+      delay(2000 / times);
+      digitalWrite(10, LOW);
+      four();
+      //signal();
+    analogWrite(11, 255);
     delay(2000 / times);
-    four();
-    signal();
-    delay(2000 / times);
+    digitalWrite(11, LOW);
     five();
-    signal();
+    //signal();
+    analogWrite(12, 255);
     delay(2000 / times);
+    digitalWrite(11, LOW);
     if(times < 25 && !zero)
       times++;
     else 
